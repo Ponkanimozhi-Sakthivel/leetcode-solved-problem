@@ -1,4 +1,4 @@
-3248
+
 class Solution {
     public int finalPositionOfSnake(int n, List<String> commands) {
         int pos = 0;  
